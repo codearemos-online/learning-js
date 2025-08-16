@@ -1,0 +1,8 @@
+Welcome here!
+
+Learn step by step about JS
+
+Create a new branch
+
+1. git checkout develop
+2. git checkout -b feat/type_operators
